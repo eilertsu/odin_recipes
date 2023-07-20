@@ -4,13 +4,13 @@ img{
 
 a{
     text-decoration: none;
-    color: black;
+    color: black; 
 }
 
 body{
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 70px 1fr 1fr;
+    grid-template-rows: 120px 1fr 1fr;
 }
 
 header{
